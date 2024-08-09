@@ -1,4 +1,6 @@
-# New Types of Illegal Fundraising Data Generation
+<div align='center'><img src="circle_logo.png" width=150px></div>
+
+# [TaoTie]: Open-Source Dataset for New Types of Illegal Fundraising
 
 ## Overview
 
